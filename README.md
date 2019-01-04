@@ -1,6 +1,6 @@
 # HDUpy
 
-> ⚠️ This version of HDUpy won't be able to login due to the update of iHDU login page. Please use HDUpy_v2 instead.
+> ⚠️ This version of HDUpy won't be able to login due to the update of iHDU login page. Please use [HDUpy_v2](https://github.com/Aeonni/HDUpy_v2) instead.
 
 #### There are 2 parts in 'Hdupy'
 - ihdu.py , The API code
